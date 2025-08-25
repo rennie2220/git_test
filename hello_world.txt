@@ -1,0 +1,3 @@
+"Hello Codelovers!"
+"This is me learning fullstack development with TheOdinProject."
+"Cheers to learning programming!"
